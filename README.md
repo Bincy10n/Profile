@@ -14,21 +14,18 @@
  
  🌱 Actively exploring both data analysis and software engineering methodologies to broaden knowledge and expertise.
 
-💬 Ask me about **Python, R, Data Analysis, and Software Engineering** or anything [here](https://github.com/bincybavachan/bincybavachan/issues)
+💬 Ask me about **Python, R, Data Analysis, and Software Engineering** 
 
 ⚡ Fun fact **I love experimenting with new tech tools and frameworks**
 
  </div>
  
 <div align="center"> 
-  <a href="mailto:your.email@example.com">
+  <a href="mailto:bincybavachan10@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
   </a>
-  <a href="https://linkedin.com/in/your-linkedin-profile" target="_blank">
+  <a href="https://linkedin.com/in/bincy-bavachan-384234253 target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
-  </a>
-  <a href="https://your-portfolio-website" target="_blank">
-     <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" target="_blank" /> <!-- Update with your actual portfolio website -->
   </a>
 </div>
 
