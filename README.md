@@ -14,7 +14,7 @@
  
  🌱 Actively exploring both data analysis and software engineering methodologies to broaden knowledge and expertise.
 
-💬 Ask me about **Python, R, Data Analysis, and Software Engineering** 
+💬 Ask me about **Python, R, Data Analysis, Sql ,Power Bi and Software Engineering** 
 
 ⚡ Fun fact **I love experimenting with new tech tools and frameworks**
 
